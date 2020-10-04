@@ -25,8 +25,8 @@ a block
 of code
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Here is how you make [a link] It's a video on my YouTube. (https://www.youtube.com/watch?v=dms52iuGSm0&ab_channel=emehrawn).
 
-![This is an image.](https://drive.google.com/drive/u/0/folders/1S9hDQjNDYvqdt2nSjAjPiIAOnQqXVEA-)
+![This is an image.](https://i.ytimg.com/vi/dms52iuGSm0/maxresdefault.jpg)
 
 nano README.md
