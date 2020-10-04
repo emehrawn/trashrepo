@@ -25,7 +25,7 @@ a block
 of code
 ```
 
-Here is how you make [a link] It's a video on my YouTube. (https://www.youtube.com/watch?v=dms52iuGSm0&ab_channel=emehrawn).
+Here is how you make [a link](https://www.youtube.com/watch?v=dms52iuGSm0&ab_channel=emehrawn).
 
 ![This is an image.](https://i.ytimg.com/vi/dms52iuGSm0/maxresdefault.jpg)
 
