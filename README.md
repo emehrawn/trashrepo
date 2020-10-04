@@ -1,4 +1,4 @@
-# MARKDOWN BASICS.
+# MARKDOWN WRITING.
 
 # This is a large heading
 
@@ -27,6 +27,6 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/853/514/datas/original.png)
+![This is an image.](https://drive.google.com/drive/u/0/folders/1S9hDQjNDYvqdt2nSjAjPiIAOnQqXVEA-)
 
 nano README.md
